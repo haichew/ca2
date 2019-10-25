@@ -3,7 +3,7 @@ MUS <-  Mower_Unit_Sales
 IMTS <- Industry_Mower_Total_Sales
 TUS <- Tractor_Unit_Sales
 ITTS <- Industry_Tractor_Total_Sales
-
+wow u can really dance
 #Mower Sales
 #NA
 nats <- ts(MUS$`NA`, start = c(2010, 1), end = c(2014, 12), frequency = 12)
