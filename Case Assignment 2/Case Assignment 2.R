@@ -1,5 +1,5 @@
 ####QUESTION 1####
-
+ #eh im just doing this for the free shirt hope u dont mind
 #Defects after delivery 
 #before policy implemented on Aug 2011
 library(reshape2)
